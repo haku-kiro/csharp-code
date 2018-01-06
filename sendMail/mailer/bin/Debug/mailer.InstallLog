@@ -1,0 +1,216 @@
+﻿Installing assembly 'C:\Users\7HE GH0S7\Documents\Visual Studio 2015\delMe\simpleProjs\sendMail\mailer\bin\Debug\mailer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\7HE GH0S7\Documents\Visual Studio 2015\delMe\simpleProjs\sendMail\mailer\bin\Debug\mailer.InstallLog
+   assemblypath = C:\Users\7HE GH0S7\Documents\Visual Studio 2015\delMe\simpleProjs\sendMail\mailer\bin\Debug\mailer.exe
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the C:\Users\7HE GH0S7\Documents\Visual Studio 2015\delMe\simpleProjs\sendMail\mailer\bin\Debug\mailer.exe assembly.
+Committing assembly 'C:\Users\7HE GH0S7\Documents\Visual Studio 2015\delMe\simpleProjs\sendMail\mailer\bin\Debug\mailer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\7HE GH0S7\Documents\Visual Studio 2015\delMe\simpleProjs\sendMail\mailer\bin\Debug\mailer.InstallLog
+   assemblypath = C:\Users\7HE GH0S7\Documents\Visual Studio 2015\delMe\simpleProjs\sendMail\mailer\bin\Debug\mailer.exe
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the C:\Users\7HE GH0S7\Documents\Visual Studio 2015\delMe\simpleProjs\sendMail\mailer\bin\Debug\mailer.exe assembly.
+Remove InstallState file because there are no installers.
+Installing assembly 'C:\Users\7HE GH0S7\Documents\Visual Studio 2015\delMe\simpleProjs\sendMail\mailer\bin\Debug\mailer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\7HE GH0S7\Documents\Visual Studio 2015\delMe\simpleProjs\sendMail\mailer\bin\Debug\mailer.InstallLog
+   assemblypath = C:\Users\7HE GH0S7\Documents\Visual Studio 2015\delMe\simpleProjs\sendMail\mailer\bin\Debug\mailer.exe
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the C:\Users\7HE GH0S7\Documents\Visual Studio 2015\delMe\simpleProjs\sendMail\mailer\bin\Debug\mailer.exe assembly.
+Committing assembly 'C:\Users\7HE GH0S7\Documents\Visual Studio 2015\delMe\simpleProjs\sendMail\mailer\bin\Debug\mailer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\7HE GH0S7\Documents\Visual Studio 2015\delMe\simpleProjs\sendMail\mailer\bin\Debug\mailer.InstallLog
+   assemblypath = C:\Users\7HE GH0S7\Documents\Visual Studio 2015\delMe\simpleProjs\sendMail\mailer\bin\Debug\mailer.exe
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the C:\Users\7HE GH0S7\Documents\Visual Studio 2015\delMe\simpleProjs\sendMail\mailer\bin\Debug\mailer.exe assembly.
+Remove InstallState file because there are no installers.
+Installing assembly 'C:\Users\7HE GH0S7\Documents\Visual Studio 2015\delMe\simpleProjs\sendMail\mailer\bin\Debug\mailer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\7HE GH0S7\Documents\Visual Studio 2015\delMe\simpleProjs\sendMail\mailer\bin\Debug\mailer.InstallLog
+   assemblypath = C:\Users\7HE GH0S7\Documents\Visual Studio 2015\delMe\simpleProjs\sendMail\mailer\bin\Debug\mailer.exe
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the C:\Users\7HE GH0S7\Documents\Visual Studio 2015\delMe\simpleProjs\sendMail\mailer\bin\Debug\mailer.exe assembly.
+Committing assembly 'C:\Users\7HE GH0S7\Documents\Visual Studio 2015\delMe\simpleProjs\sendMail\mailer\bin\Debug\mailer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\7HE GH0S7\Documents\Visual Studio 2015\delMe\simpleProjs\sendMail\mailer\bin\Debug\mailer.InstallLog
+   assemblypath = C:\Users\7HE GH0S7\Documents\Visual Studio 2015\delMe\simpleProjs\sendMail\mailer\bin\Debug\mailer.exe
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the C:\Users\7HE GH0S7\Documents\Visual Studio 2015\delMe\simpleProjs\sendMail\mailer\bin\Debug\mailer.exe assembly.
+Remove InstallState file because there are no installers.
+Installing assembly 'C:\Users\7HE GH0S7\Documents\Visual Studio 2015\delMe\simpleProjs\sendMail\mailer\bin\Debug\mailer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\7HE GH0S7\Documents\Visual Studio 2015\delMe\simpleProjs\sendMail\mailer\bin\Debug\mailer.InstallLog
+   assemblypath = C:\Users\7HE GH0S7\Documents\Visual Studio 2015\delMe\simpleProjs\sendMail\mailer\bin\Debug\mailer.exe
+Rolling back assembly 'C:\Users\7HE GH0S7\Documents\Visual Studio 2015\delMe\simpleProjs\sendMail\mailer\bin\Debug\mailer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\7HE GH0S7\Documents\Visual Studio 2015\delMe\simpleProjs\sendMail\mailer\bin\Debug\mailer.InstallLog
+   assemblypath = C:\Users\7HE GH0S7\Documents\Visual Studio 2015\delMe\simpleProjs\sendMail\mailer\bin\Debug\mailer.exe
+Installing assembly 'C:\Users\7HE GH0S7\Documents\Visual Studio 2015\delMe\simpleProjs\sendMail\mailer\bin\Debug\mailer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\7HE GH0S7\Documents\Visual Studio 2015\delMe\simpleProjs\sendMail\mailer\bin\Debug\mailer.InstallLog
+   assemblypath = C:\Users\7HE GH0S7\Documents\Visual Studio 2015\delMe\simpleProjs\sendMail\mailer\bin\Debug\mailer.exe
+Installing service Service1...
+Creating EventLog source Service1 in log Application...
+Rolling back assembly 'C:\Users\7HE GH0S7\Documents\Visual Studio 2015\delMe\simpleProjs\sendMail\mailer\bin\Debug\mailer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\7HE GH0S7\Documents\Visual Studio 2015\delMe\simpleProjs\sendMail\mailer\bin\Debug\mailer.InstallLog
+   assemblypath = C:\Users\7HE GH0S7\Documents\Visual Studio 2015\delMe\simpleProjs\sendMail\mailer\bin\Debug\mailer.exe
+Restoring event log to previous state for source Service1.
+Installing assembly 'C:\Users\7HE GH0S7\Documents\Visual Studio 2015\delMe\simpleProjs\sendMail\mailer\bin\Debug\mailer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\7HE GH0S7\Documents\Visual Studio 2015\delMe\simpleProjs\sendMail\mailer\bin\Debug\mailer.InstallLog
+   assemblypath = C:\Users\7HE GH0S7\Documents\Visual Studio 2015\delMe\simpleProjs\sendMail\mailer\bin\Debug\mailer.exe
+Rolling back assembly 'C:\Users\7HE GH0S7\Documents\Visual Studio 2015\delMe\simpleProjs\sendMail\mailer\bin\Debug\mailer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\7HE GH0S7\Documents\Visual Studio 2015\delMe\simpleProjs\sendMail\mailer\bin\Debug\mailer.InstallLog
+   assemblypath = C:\Users\7HE GH0S7\Documents\Visual Studio 2015\delMe\simpleProjs\sendMail\mailer\bin\Debug\mailer.exe
+Installing assembly 'C:\Users\7HE GH0S7\Documents\Visual Studio 2015\delMe\simpleProjs\sendMail\mailer\bin\Debug\mailer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\7HE GH0S7\Documents\Visual Studio 2015\delMe\simpleProjs\sendMail\mailer\bin\Debug\mailer.InstallLog
+   assemblypath = C:\Users\7HE GH0S7\Documents\Visual Studio 2015\delMe\simpleProjs\sendMail\mailer\bin\Debug\mailer.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\7HE GH0S7\Documents\Visual Studio 2015\delMe\simpleProjs\sendMail\mailer\bin\Debug\mailer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\7HE GH0S7\Documents\Visual Studio 2015\delMe\simpleProjs\sendMail\mailer\bin\Debug\mailer.InstallLog
+   assemblypath = C:\Users\7HE GH0S7\Documents\Visual Studio 2015\delMe\simpleProjs\sendMail\mailer\bin\Debug\mailer.exe
+Installing assembly 'C:\Users\7HE GH0S7\Documents\Visual Studio 2015\delMe\simpleProjs\sendMail\mailer\bin\Debug\mailer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\7HE GH0S7\Documents\Visual Studio 2015\delMe\simpleProjs\sendMail\mailer\bin\Debug\mailer.InstallLog
+   assemblypath = C:\Users\7HE GH0S7\Documents\Visual Studio 2015\delMe\simpleProjs\sendMail\mailer\bin\Debug\mailer.exe
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the C:\Users\7HE GH0S7\Documents\Visual Studio 2015\delMe\simpleProjs\sendMail\mailer\bin\Debug\mailer.exe assembly.
+Committing assembly 'C:\Users\7HE GH0S7\Documents\Visual Studio 2015\delMe\simpleProjs\sendMail\mailer\bin\Debug\mailer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\7HE GH0S7\Documents\Visual Studio 2015\delMe\simpleProjs\sendMail\mailer\bin\Debug\mailer.InstallLog
+   assemblypath = C:\Users\7HE GH0S7\Documents\Visual Studio 2015\delMe\simpleProjs\sendMail\mailer\bin\Debug\mailer.exe
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the C:\Users\7HE GH0S7\Documents\Visual Studio 2015\delMe\simpleProjs\sendMail\mailer\bin\Debug\mailer.exe assembly.
+Remove InstallState file because there are no installers.
+Installing assembly 'C:\Users\7HE GH0S7\Documents\Visual Studio 2015\delMe\simpleProjs\sendMail\mailer\bin\Debug\mailer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\7HE GH0S7\Documents\Visual Studio 2015\delMe\simpleProjs\sendMail\mailer\bin\Debug\mailer.InstallLog
+   assemblypath = C:\Users\7HE GH0S7\Documents\Visual Studio 2015\delMe\simpleProjs\sendMail\mailer\bin\Debug\mailer.exe
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the C:\Users\7HE GH0S7\Documents\Visual Studio 2015\delMe\simpleProjs\sendMail\mailer\bin\Debug\mailer.exe assembly.
+Committing assembly 'C:\Users\7HE GH0S7\Documents\Visual Studio 2015\delMe\simpleProjs\sendMail\mailer\bin\Debug\mailer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\7HE GH0S7\Documents\Visual Studio 2015\delMe\simpleProjs\sendMail\mailer\bin\Debug\mailer.InstallLog
+   assemblypath = C:\Users\7HE GH0S7\Documents\Visual Studio 2015\delMe\simpleProjs\sendMail\mailer\bin\Debug\mailer.exe
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the C:\Users\7HE GH0S7\Documents\Visual Studio 2015\delMe\simpleProjs\sendMail\mailer\bin\Debug\mailer.exe assembly.
+Remove InstallState file because there are no installers.
+Uninstalling assembly 'C:\Users\7HE GH0S7\Documents\Visual Studio 2015\delMe\simpleProjs\sendMail\mailer\bin\Debug\mailer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\7HE GH0S7\Documents\Visual Studio 2015\delMe\simpleProjs\sendMail\mailer\bin\Debug\mailer.InstallLog
+   assemblypath = C:\Users\7HE GH0S7\Documents\Visual Studio 2015\delMe\simpleProjs\sendMail\mailer\bin\Debug\mailer.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'C:\Users\7HE GH0S7\Documents\Visual Studio 2015\delMe\simpleProjs\sendMail\mailer\bin\Debug\mailer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\7HE GH0S7\Documents\Visual Studio 2015\delMe\simpleProjs\sendMail\mailer\bin\Debug\mailer.InstallLog
+   assemblypath = C:\Users\7HE GH0S7\Documents\Visual Studio 2015\delMe\simpleProjs\sendMail\mailer\bin\Debug\mailer.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\7HE GH0S7\Documents\Visual Studio 2015\delMe\simpleProjs\sendMail\mailer\bin\Debug\mailer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\7HE GH0S7\Documents\Visual Studio 2015\delMe\simpleProjs\sendMail\mailer\bin\Debug\mailer.InstallLog
+   assemblypath = C:\Users\7HE GH0S7\Documents\Visual Studio 2015\delMe\simpleProjs\sendMail\mailer\bin\Debug\mailer.exe
+Uninstalling assembly 'C:\Users\7HE GH0S7\Documents\Visual Studio 2015\delMe\simpleProjs\sendMail\mailer\bin\Debug\mailer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\7HE GH0S7\Documents\Visual Studio 2015\delMe\simpleProjs\sendMail\mailer\bin\Debug\mailer.InstallLog
+   assemblypath = C:\Users\7HE GH0S7\Documents\Visual Studio 2015\delMe\simpleProjs\sendMail\mailer\bin\Debug\mailer.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'C:\Users\7HE GH0S7\Documents\Visual Studio 2015\delMe\simpleProjs\sendMail\mailer\bin\Debug\mailer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\7HE GH0S7\Documents\Visual Studio 2015\delMe\simpleProjs\sendMail\mailer\bin\Debug\mailer.InstallLog
+   assemblypath = C:\Users\7HE GH0S7\Documents\Visual Studio 2015\delMe\simpleProjs\sendMail\mailer\bin\Debug\mailer.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\7HE GH0S7\Documents\Visual Studio 2015\delMe\simpleProjs\sendMail\mailer\bin\Debug\mailer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\7HE GH0S7\Documents\Visual Studio 2015\delMe\simpleProjs\sendMail\mailer\bin\Debug\mailer.InstallLog
+   assemblypath = C:\Users\7HE GH0S7\Documents\Visual Studio 2015\delMe\simpleProjs\sendMail\mailer\bin\Debug\mailer.exe
+Uninstalling assembly 'C:\Users\7HE GH0S7\Documents\Visual Studio 2015\delMe\simpleProjs\sendMail\mailer\bin\Debug\mailer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\7HE GH0S7\Documents\Visual Studio 2015\delMe\simpleProjs\sendMail\mailer\bin\Debug\mailer.InstallLog
+   assemblypath = C:\Users\7HE GH0S7\Documents\Visual Studio 2015\delMe\simpleProjs\sendMail\mailer\bin\Debug\mailer.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'C:\Users\7HE GH0S7\Documents\Visual Studio 2015\delMe\simpleProjs\sendMail\mailer\bin\Debug\mailer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\7HE GH0S7\Documents\Visual Studio 2015\delMe\simpleProjs\sendMail\mailer\bin\Debug\mailer.InstallLog
+   assemblypath = C:\Users\7HE GH0S7\Documents\Visual Studio 2015\delMe\simpleProjs\sendMail\mailer\bin\Debug\mailer.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\7HE GH0S7\Documents\Visual Studio 2015\delMe\simpleProjs\sendMail\mailer\bin\Debug\mailer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\7HE GH0S7\Documents\Visual Studio 2015\delMe\simpleProjs\sendMail\mailer\bin\Debug\mailer.InstallLog
+   assemblypath = C:\Users\7HE GH0S7\Documents\Visual Studio 2015\delMe\simpleProjs\sendMail\mailer\bin\Debug\mailer.exe
+Uninstalling assembly 'C:\Users\7HE GH0S7\Documents\Visual Studio 2015\delMe\simpleProjs\sendMail\mailer\bin\Debug\mailer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\7HE GH0S7\Documents\Visual Studio 2015\delMe\simpleProjs\sendMail\mailer\bin\Debug\mailer.InstallLog
+   assemblypath = C:\Users\7HE GH0S7\Documents\Visual Studio 2015\delMe\simpleProjs\sendMail\mailer\bin\Debug\mailer.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'C:\Users\7HE GH0S7\Documents\Visual Studio 2015\delMe\simpleProjs\sendMail\mailer\bin\Debug\mailer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\7HE GH0S7\Documents\Visual Studio 2015\delMe\simpleProjs\sendMail\mailer\bin\Debug\mailer.InstallLog
+   assemblypath = C:\Users\7HE GH0S7\Documents\Visual Studio 2015\delMe\simpleProjs\sendMail\mailer\bin\Debug\mailer.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\7HE GH0S7\Documents\Visual Studio 2015\delMe\simpleProjs\sendMail\mailer\bin\Debug\mailer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\7HE GH0S7\Documents\Visual Studio 2015\delMe\simpleProjs\sendMail\mailer\bin\Debug\mailer.InstallLog
+   assemblypath = C:\Users\7HE GH0S7\Documents\Visual Studio 2015\delMe\simpleProjs\sendMail\mailer\bin\Debug\mailer.exe
+Uninstalling assembly 'C:\Users\7HE GH0S7\Documents\Visual Studio 2015\delMe\simpleProjs\sendMail\mailer\bin\Debug\mailer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\7HE GH0S7\Documents\Visual Studio 2015\delMe\simpleProjs\sendMail\mailer\bin\Debug\mailer.InstallLog
+   assemblypath = C:\Users\7HE GH0S7\Documents\Visual Studio 2015\delMe\simpleProjs\sendMail\mailer\bin\Debug\mailer.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'C:\Users\7HE GH0S7\Documents\Visual Studio 2015\delMe\simpleProjs\sendMail\mailer\bin\Debug\mailer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\7HE GH0S7\Documents\Visual Studio 2015\delMe\simpleProjs\sendMail\mailer\bin\Debug\mailer.InstallLog
+   assemblypath = C:\Users\7HE GH0S7\Documents\Visual Studio 2015\delMe\simpleProjs\sendMail\mailer\bin\Debug\mailer.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\7HE GH0S7\Documents\Visual Studio 2015\delMe\simpleProjs\sendMail\mailer\bin\Debug\mailer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\7HE GH0S7\Documents\Visual Studio 2015\delMe\simpleProjs\sendMail\mailer\bin\Debug\mailer.InstallLog
+   assemblypath = C:\Users\7HE GH0S7\Documents\Visual Studio 2015\delMe\simpleProjs\sendMail\mailer\bin\Debug\mailer.exe
