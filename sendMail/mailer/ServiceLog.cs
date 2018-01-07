@@ -54,7 +54,7 @@ namespace mailer
 
         #region Sending an email
 
-        public static void SendEmail(string toEmail, string cc, string bcc, string subject, string message)
+        public static void SendEmail(string toEmail, string cc, string bcc, string subject, string message, string attchPaths)
         {
             string HostAdd = ConfigurationManager.AppSettings["Host"];
             string FromEmailid = ConfigurationManager.AppSettings["FromMail"];
@@ -74,24 +74,34 @@ namespace mailer
                 mailMessage.To.Add(new MailAddress(email));
             }
 
+            //all the cc (add error checking to check if string empty- cc and bcc)
+            if (cc != string.Empty || cc != null)
+            {
+                string[] CCMail = cc.Split(',');
+                foreach (string email in CCMail)
+                {
+                    mailMessage.CC.Add(new MailAddress(email));
+                }
+            }
+            
+            //all the bcc
+            if (bcc != string.Empty || bcc != null)
+            {
+                string[] BCCMail = bcc.Split(',');
+                foreach (string email in BCCMail)
+                {
+                    mailMessage.Bcc.Add(new MailAddress(email));
+                }
+            }
 
-
-            //TODO
-            ////all the cc (add error checking to check if string empty- cc and bcc)
-            //string[] CCMail = cc.Split(',');
-            //foreach (string email in CCMail)
-            //{
-            //    mailMessage.CC.Add(new MailAddress(email));
-            //}
-
-            ////all the bcc
-            //string[] BCCMail = bcc.Split(',');
-            //foreach (string email in BCCMail)
-            //{
-            //    mailMessage.Bcc.Add(new MailAddress(email));
-            //}
-
-
+            if (attchPaths != string.Empty || attchPaths != null)
+            {
+                string[] att = attchPaths.Split(',');
+                foreach (string attachPath in att)
+                {
+                    mailMessage.Attachments.Add(new Attachment(attachPath));
+                }
+            }
 
             //network and security related creds
 

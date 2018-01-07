@@ -39,9 +39,16 @@ namespace mailer
 
         private void ServiceTimer_Tick(object sender, ElapsedEventArgs e)
         {
-            ServiceLog.WriteErrorLog("An email was supposed to be sent");
-            string Msg = "This is a test email from my test windows service";
-            ServiceLog.SendEmail("mdjcosta30@gmail.com","","","test",Msg);
+            helperMethods helper = new helperMethods();
+            string Msg = helper.getBody(); //has to have the base text file called MessageBody
+            string toEmail = ConfigurationManager.AppSettings["toMail"];
+            string ccList = ConfigurationManager.AppSettings["ccList"];
+            string bccList = ConfigurationManager.AppSettings["bccList"];
+            string subject = ConfigurationManager.AppSettings["subject"];
+            string attchList = ConfigurationManager.AppSettings["attcList"];
+
+            //sending the email
+            ServiceLog.SendEmail(toEmail,ccList,bccList,subject,Msg, attchList);
 
             if (getCallType == 1)
             {
